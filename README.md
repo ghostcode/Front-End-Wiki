@@ -21,6 +21,10 @@ Front-End-Wiki
 #HTML5
 
 
+#问题集合
+
+1. JavaScript 既是单线程又是异步的，请问这二者是否冲突，以及有什么区别？ http://www.zhihu.com/question/20866267
+
 
 
 
