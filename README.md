@@ -20,6 +20,19 @@ Front-End-Wiki
 
 #HTML5
 
+#正则表达式
+
+工具集合
+
+1.http://tool.oschina.net/regex
+
+正则文章
+
+1.http://www.cnblogs.com/hustskyking/archive/2013/06/04/RegExp.html
+2.http://deerchao.net/tutorials/regex/regex.htm
+
+
+
 
 #问题集合
 
