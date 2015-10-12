@@ -13,7 +13,9 @@ Front-End-Wiki
 
 
 #CSS
+1. 30个应该记住的选择器
 
+http://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/
 
 #JavaScript
 
