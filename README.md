@@ -19,6 +19,10 @@ http://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/
 
 #JavaScript
 
+1. 调试技巧
+
+http://www.cnblogs.com/miragele/p/5394396.html
+
 
 #HTML5
 
@@ -33,7 +37,8 @@ http://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/
 1.http://www.cnblogs.com/hustskyking/archive/2013/06/04/RegExp.html
 2.http://deerchao.net/tutorials/regex/regex.htm
 
-
+#常用面试问题
+1. 
 
 
 #问题集合
