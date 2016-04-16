@@ -23,6 +23,20 @@ http://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/
 
 http://www.cnblogs.com/miragele/p/5394396.html
 
+2. 函数节流
+
+http://zhuxinyong.com/2016/04/09/throttle%E4%B8%8Edebounce%E7%9A%84%E5%8C%BA%E5%88%AB/
+
+https://css-tricks.com/the-difference-between-throttling-and-debouncing/
+
+https://blog.coding.net/blog/the-difference-between-throttle-and-debounce-in-underscorejs
+
+http://drupalmotion.com/article/debounce-and-throttle-visual-explanation
+
+http://benalman.com/projects/jquery-throttle-debounce-plugin/
+
+
+
 
 #HTML5
 
