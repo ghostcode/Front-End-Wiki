@@ -40,6 +40,10 @@ http://benalman.com/projects/jquery-throttle-debounce-plugin/
 
 #HTML5
 
+#移动端
+
+1. http://www.cnblogs.com/yhf286/p/5396644.html
+
 #正则表达式
 
 工具集合
@@ -78,6 +82,8 @@ http://www.ruanyifeng.com/blog/2010/04/using_this_keyword_in_javascript.html
 http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 
 http://www.quirksmode.org/js/this.html
+
+
 
 
 
