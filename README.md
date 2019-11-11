@@ -3,21 +3,21 @@ Front-End-Wiki
 
 整理工作中遇到问题和一些资料
 
-#综合资料
+## 综合资料
 
 1. https://github.com/vhf/free-programming-books   Freely available programming books
 2. https://github.com/lightningtgc/frontend-dev-bookmarks   A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 
-#手册
+## 手册
 1. http://codecook.io/
 
 
-#CSS
+## CSS
 1. 30个应该记住的选择器
 
 http://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/
 
-#JavaScript
+## JavaScript
 
 1. 调试技巧
 
@@ -38,13 +38,13 @@ http://benalman.com/projects/jquery-throttle-debounce-plugin/
 
 
 
-#HTML5
+## HTML5
 
-#移动端
+## 移动端
 
 1. http://www.cnblogs.com/yhf286/p/5396644.html
 
-#正则表达式
+## 正则表达式
 
 工具集合
 
@@ -55,11 +55,11 @@ http://benalman.com/projects/jquery-throttle-debounce-plugin/
 1.http://www.cnblogs.com/hustskyking/archive/2013/06/04/RegExp.html
 2.http://deerchao.net/tutorials/regex/regex.htm
 
-#常用面试问题
+## 常用面试问题
 1. 
 
 
-#问题集合
+## 问题集合
 
 1.JavaScript 既是单线程又是异步的，请问这二者是否冲突，以及有什么区别？ 
 
